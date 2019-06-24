@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Description**
 <!--- A clear and concise description of what the bug is. -->
 
-**To Reproduce**
+**How to reproduce**
 <!--- Steps to reproduce the behavior: -->
 
 1.
@@ -20,7 +20,7 @@ assignees: ''
 **Expected behavior**
 <!--- A clear and concise description of what you expected to happen. -->
 
-**Environment:**
+**Environment**
 <!-- Useful informations about your environment (package version, os, docker, etc...)-->
 
 **Additional context**
